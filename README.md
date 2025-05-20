@@ -1,4 +1,5 @@
 # Multilingual Assistant 
+The Multilingual AI Assistant is a voice-enabled application designed to facilitate seamless communication across multiple languages. Leveraging Google APIs, PaLM2, and Streamlit, this assistant offers real-time speech-to-text and text-to-speech capabilities within an intuitive web interface
 ## workflow Diagram
 ![diagram](https://github.com/Tanujkumar24/Multi-lingual-Ai-Assistant/blob/master/diagram.png)
 
