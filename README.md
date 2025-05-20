@@ -1,6 +1,11 @@
 # Multilingual Assistant 
 ## workflow Diagram
 ![diagram](https://github.com/Tanujkumar24/Multi-lingual-Ai-Assistant/blob/master/diagram.png)
+
+## Output
+![output](https://github.com/Tanujkumar24/Multi-lingual-Ai-Assistant/blob/master/outputImage.png)
+![sourcecode](https://github.com/Tanujkumar24/Multi-lingual-Ai-Assistant/blob/master/sourcecode.png)
+![aws](https://github.com/Tanujkumar24/Multi-lingual-Ai-Assistant/blob/master/aws_deployement.png)
 # How to run?
 ### STEPS:
 
